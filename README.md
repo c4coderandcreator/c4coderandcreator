@@ -1,6 +1,6 @@
-# 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                                                                       
 💬 Ask me about Web Dev | Information Security | Data Analysis | Cloud Computing<br><br>🔭 I’m currently working on Strengthening JS<br><br>🌱 I’m currently learning About Mastering Full Stack Development<br><br>👨‍💻 Simple Portfolio of Mine http://surl.li/hckee/<br><br>📫 Email coderandcreator@gmail.com<br><br>📄 Know about my Experience checkout by LinkedIn http://surl.li/hckek/<br><br>⚡ Fun fact By Following Me : You can watch me become a Trillionaire in A month or Two.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anay-singh-5b95461a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
@@ -19,11 +19,8 @@
 [![](https://gtce.itsvg.in/api?username=coderandcreator)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## Buy Me a Coffee ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mrinal01234@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
 
