@@ -18,7 +18,7 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📳 Tweets 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=coderandcreator)](https://github.com/gazf/github-readme-twitter)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
