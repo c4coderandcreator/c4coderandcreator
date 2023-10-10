@@ -1,6 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://c4coderandcreator.github.io/gif_set/coderandcreator.gif)
-
+[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle :AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
@@ -16,10 +15,6 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 [![An image of @c4coderandcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c4coderandcreator)](https://holopin.io/@c4coderandcreator)
 
