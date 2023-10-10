@@ -7,7 +7,7 @@
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle :AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
- ## 🌐 <span style="color: #f49c10;"> Socials: </span>
+ # 🌐 <span style="color: #f49c10;"> Socials: </span>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anay-singh-5b95461a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
 
 
@@ -21,15 +21,15 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c4coderandcreator&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
- ## 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
+ # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 📂 <span style="color: #f49c10;">Open Source Participation </span>
+# 📂 <span style="color: #f49c10;">Open Source Participation </span>
 [![An image of @c4coderandcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c4coderandcreator)](https://holopin.io/@c4coderandcreator)
 
 
-  ## <span style="color: #18bd9c;"> You can buy me a coffee here ☕ </span>
+  # <span style="color: #18bd9c;"> You can buy me a coffee here ☕ </span>
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anaysingh007) 
 
 
