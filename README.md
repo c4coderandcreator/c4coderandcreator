@@ -1,3 +1,4 @@
+# 💫 <span style="color: #18bd9c;">Welcome to the code-filled cosmos I've crafted!:</span>
 ![](https://c4coderandcreator.github.io/gif_set/coderandcreator.gif)
 
 # 💫 <span style="color: #18bd9c;">About Me:</span>
