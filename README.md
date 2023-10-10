@@ -1,7 +1,5 @@
 ![](https://c4coderandcreator.github.io/gif_set/coderandcreator.gif)
 
-[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle :AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
@@ -23,4 +21,5 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
   ## You can buy me a coffee here ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anaysingh007) 
 
+[![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
   
