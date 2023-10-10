@@ -1,9 +1,8 @@
-![](https://c4coderandcreator.github.io/gif_set/coderandcreator.gif)
 [![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://c4coderandcreator.github.io/gif_set/coderandcreator.gif)
 
 # 💫 About Me:
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle :AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anay-singh-5b95461a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
@@ -17,9 +16,6 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 📳 Tweets 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=coderandcreator)](https://github.com/gazf/github-readme-twitter)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
