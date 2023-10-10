@@ -1,3 +1,4 @@
+![](https://github.com/c4coderandcreator/personal-site/blob/main/coderandcreator.gif)
 [![](https://visitcount.itsvg.in/api?id=c4coderandcreator&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
