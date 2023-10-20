@@ -1,6 +1,6 @@
 # 💫 <span style="color: #18bd9c;">Welcome to the code-filled cosmos I've crafted!:</span>
 
-![](https://github.com/c4coderandcreator/gif_set/blob/main/CODERANDCREATORGIF.gif)
+![](https://c4coderandcreator.github.io/gif_set/CODERANDCREATORGIF.gif)
 
 
 # 💫 <span style="color: #18bd9c;">About Me:</span>
