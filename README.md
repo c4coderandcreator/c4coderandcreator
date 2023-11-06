@@ -22,7 +22,7 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 
 
  # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
-![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📂 <span style="color: #f49c10;">Open Source Participation </span>
