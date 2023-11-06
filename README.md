@@ -17,15 +17,12 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 
  # 📊 <span style="color: #ffea00;"> GitHub Stats: </span>
 ![](https://github-readme-stats.vercel.app/api?username=c4coderandcreator&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=c4coderandcreator&theme=highcontrast&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=c4coderandcreator&theme=highcontrast)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c4coderandcreator&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
  # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
-![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 👨‍💻 <span style="color: #f49c10;">GitHub Streak </span>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=c4coderandcreator&theme=highcontrast)](https://git.io/streak-stats)
+![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📂 <span style="color: #f49c10;">Open Source Participation </span>
