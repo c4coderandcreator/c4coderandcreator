@@ -24,6 +24,9 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
  # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# 👨‍💻 <span style="color: #f49c10;">GitHub Streak </span>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=c4coderandcreator)](https://git.io/streak-stats)
+
 
 # 📂 <span style="color: #f49c10;">Open Source Participation </span>
 [![An image of @c4coderandcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c4coderandcreator)](https://holopin.io/@c4coderandcreator)
