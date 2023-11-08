@@ -3,7 +3,7 @@
 ![](https://c4coderandcreator.github.io/gif_set/CODERANDCREATORGIF.gif)
 
 
-# 🙍‍♂️ <span style="color: #18bd9c;">About Me:</span>
+# 🥷 <span style="color: #18bd9c;">About Me:</span>
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
