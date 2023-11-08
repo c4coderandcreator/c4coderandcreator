@@ -21,6 +21,10 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c4coderandcreator&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+# 📊 <span style="color: #ffea00;"> Productivity Stats: </span>
+ ![coderandcreator's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4coderandcreator&theme=highcontrast)
+
+ 
  # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
 ![](https://github-profile-trophy.vercel.app/?username=c4coderandcreator&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
