@@ -29,6 +29,10 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 [![An image of @c4coderandcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c4coderandcreator)](https://holopin.io/@c4coderandcreator)
 
 
+# 🎧 <span style="color: #f49c10;"> My Spotify </span>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pgjocn5726td5xyho3hl6qwbhm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=054503)](https://spotify-github-profile.vercel.app/api/view?uid=31pgjocn5726td5xyho3hl6qwbhm&redirect=true)
+
+
   # ☕ <span style="color: #18bd9c;"> You can buy me a coffee here  </span>
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anaysingh007) 
 
