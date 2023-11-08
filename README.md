@@ -7,10 +7,6 @@
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
- # 🌐 <span style="color: #f49c10;"> Socials: </span>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anay-singh-5b95461a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
-
-
  # 💻 <span style="color: #8c52ff;">Tech Stack: </span>
 
 <h3 align="left">Frontend:</h3>
@@ -85,6 +81,10 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 
 # 📂 <span style="color: #f49c10;">Open Source Participation </span>
 [![An image of @c4coderandcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c4coderandcreator)](https://holopin.io/@c4coderandcreator)
+
+
+ # 🌐 <span style="color: #f49c10;"> Socials: </span>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anay-singh-5b95461a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
 
 
   # ☕ <span style="color: #18bd9c;"> You can buy me a coffee here  </span>
