@@ -3,7 +3,7 @@
 ![](https://c4coderandcreator.github.io/gif_set/CODERANDCREATORGIF.gif)
 
 
-# 💫 <span style="color: #18bd9c;">About Me:</span>
+# 🙍‍♂️ <span style="color: #18bd9c;">About Me:</span>
 Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
@@ -21,7 +21,7 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c4coderandcreator&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# 📊 <span style="color: #ffea00;"> Productivity Stats: </span>
+# 🏫 <span style="color: #ffea00;"> Productivity Stats: </span>
  ![coderandcreator's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4coderandcreator&theme=highcontrast)
 
  
