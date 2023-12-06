@@ -64,6 +64,9 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0)
 
+# 👨‍💻 <span style="color: #ffea00;"> Blog Posts: </span>
+[<h3 align="left">Decoding the DSA Dilemma:</h3>](https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd)
+
 
  # 📊 <span style="color: #ffea00;"> GitHub Stats: </span>
 ![](https://github-readme-stats.vercel.app/api?username=c4coderandcreator&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
