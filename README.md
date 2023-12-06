@@ -65,7 +65,9 @@ Full Stack Developer 💻<br>Part-Time FreeLancer 🆓<br>Digital Creator 📺<b
 ![Windows](https://img.shields.io/badge/windows%20os-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0)
 
 # 👨‍💻 <span style="color: #ffea00;"> Blog Posts: </span>
-[Decoding the DSA Dilemma:](https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd)
+- [Decoding the DSA Dilemma:](https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd)
+- [Mastering JavaScript Basics Before Diving into React](https://coderandcreator.medium.com/mastering-javascript-basics-before-diving-into-react-a-beginners-guide-bc0cd4e53d5a)
+- [Axios Unveiled](https://coderandcreator.medium.com/axios-unveiled-insights-from-my-beginners-journey-343ec3a8a953)
 
 
  # 📊 <span style="color: #ffea00;"> GitHub Stats: </span>
