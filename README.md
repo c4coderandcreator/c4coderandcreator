@@ -69,6 +69,8 @@ Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>E
 - [Mastering JavaScript Basics Before Diving into React](https://coderandcreator.medium.com/mastering-javascript-basics-before-diving-into-react-a-beginners-guide-bc0cd4e53d5a)
 - [Axios Unveiled](https://coderandcreator.medium.com/axios-unveiled-insights-from-my-beginners-journey-343ec3a8a953)
 - [Open Source Contribution](https://blog.stackademic.com/open-source-contribution-f2bfee840756)
+- [Addressing Mental Health Challenges in Developer’s Journey](https://medium.com/@coderandcreator/addressing-mental-health-challenges-in-developers-journey-5e8372c11146)
+- [AI Taking Jobs: A Boon or Bane? A Detailed Take for Tech Enthusiasts](https://medium.com/@coderandcreator/ai-taking-jobs-a-boon-or-bane-a-detailed-take-for-tech-enthusiasts-aecb73264d75)
 
 
  # 📊 <span style="color: #ffea00;"> GitHub Stats: </span>
