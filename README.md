@@ -4,6 +4,7 @@
 
 
 # 😎 <span style="color: #18bd9c;">About Me:</span>
+<a href="https://gitroll.io/profile/u6K14tNuDPiRbmP7UQV3tk6XKEeq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6K14tNuDPiRbmP7UQV3tk6XKEeq2" alt="GitRoll Profile Badge"/></a> <br>
 Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
