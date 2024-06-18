@@ -16,7 +16,7 @@ Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>E
 | **Backend**                  | Express.js, NodeJS, NextJs, NPM, Bun, Yarn, Nodemon, Postman                                                                             |
 | **Web Hosting**              | AWS, GitHub, Cloudflare, Netlify, Vercel, Name.com, GoDaddy, Hostinger, Render                                                                             |
 | **Database**                 | MongoDB, PostgreSQL                                                                                                        |
-| **Design Tools**             | Adobe Acrobat Reader, Adobe Lightroom, Adobe Photoshop, Canva, Figma                                                       |
+| **Design Tools**             | Adobe Photoshop, Canva, Figma                                                       |
 | **Version Control**          | Git, Windows Terminal, PowerShell                                                                                          |
 | **Other Programming Languages** | Python                                                                                                                  |
 | **Operating System**         | Ubuntu                                                                                                          |
