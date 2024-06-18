@@ -12,14 +12,14 @@ Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>E
 
 | **Category**                 | **Technologies**                                                                                                          |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**                 | HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, jQuery, React                                                             |
-| **Web Hosting**              | AWS, GitHub Pages, Cloudflare, Netlify, Vercel                                                                             |
-| **Backend**                  | Bun, Express.js, NPM, NodeJS, Nodemon, Postman                                                                             |
+| **Frontend**                 | HTML5, CSS3, Bootstrap, Tailwind, MUI, ShadCn, JavaScript, jQuery, React, NextJs                                                             |
+| **Backend**                  | Express.js, NodeJS, NextJs, NPM, Bun, Yarn, Nodemon, Postman                                                                             |
+| **Web Hosting**              | AWS, GitHub, Cloudflare, Netlify, Vercel, Name.com, GoDaddy, Hostinger, Render                                                                             |
 | **Database**                 | MongoDB, PostgreSQL                                                                                                        |
 | **Design Tools**             | Adobe Acrobat Reader, Adobe Lightroom, Adobe Photoshop, Canva, Figma                                                       |
 | **Version Control**          | Git, Windows Terminal, PowerShell                                                                                          |
 | **Other Programming Languages** | Python                                                                                                                  |
-| **Operating System**         | Ubuntu, Windows                                                                                                            |
+| **Operating System**         | Ubuntu                                                                                                          |
 
 
 
