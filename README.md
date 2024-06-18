@@ -10,37 +10,17 @@ Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>E
 
  # 💻 Tech Stack
 
-## Frontend
-| HTML5 | CSS3 | Bootstrap | TailwindCSS | JavaScript | jQuery | React |
-|---|---|---|---|---|---|---|
+| **Category**                 | **Technologies**                                                                                                          |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**                 | HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, jQuery, React                                                             |
+| **Web Hosting**              | AWS, GitHub Pages, Cloudflare, Netlify, Vercel                                                                             |
+| **Backend**                  | Bun, Express.js, NPM, NodeJS, Nodemon, Postman                                                                             |
+| **Database**                 | MongoDB, PostgreSQL                                                                                                        |
+| **Design Tools**             | Adobe Acrobat Reader, Adobe Lightroom, Adobe Photoshop, Canva, Figma                                                       |
+| **Version Control**          | Git, Windows Terminal, PowerShell                                                                                          |
+| **Other Programming Languages** | Python                                                                                                                  |
+| **Operating System**         | Ubuntu, Windows                                                                                                            |
 
-## Web Hosting
-| AWS | GitHub Pages | Cloudflare | Netlify | Vercel |
-|---|---|---|---|---|
-
-## Backend
-| Bun | Express.js | NPM | NodeJS | Nodemon | Postman |
-|---|---|---|---|---|---|
-
-## Database
-| MongoDB | PostgreSQL |
-|---|---|
-
-## Design Tools
-| Adobe Acrobat Reader | Adobe Lightroom | Adobe Photoshop | Canva | Figma |
-|---|---|---|---|---|
-
-## Version Control
-| Git | Windows Terminal | PowerShell |
-|---|---|---|
-
-## Other Programming Languages
-| Python |
-|---|
-
-## Operating System
-| Ubuntu | Windows |
-|---|---|
 
 
 # 👨‍💻 <span style="color: #ffea00;"> Blog Posts: </span>
