@@ -7,7 +7,7 @@
  
 <a href="https://gitroll.io/profile/u6K14tNuDPiRbmP7UQV3tk6XKEeq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6K14tNuDPiRbmP7UQV3tk6XKEeq2" alt="GitRoll Profile Badge"  width="450" height="225"/></a>
 <br>
-Full Stack Developer 💻<br>Remote FreeLancer 🆓<br>Digital Creator 📺<br>Earning and Learning 🧑‍💻<br>Side Hustle : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
+Full Stack Developer 💻<br>Remote FreeLance 🆓<br>Open Source Contributor 🧑‍💻<br>Digital Creator 📺<br>Interests : AI and UI/UX ⚙️<br>Fun Fact : Null is an object 🫥
 
 
 
