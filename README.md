@@ -11,6 +11,10 @@ Full Stack Developer 💻<br>Remote FreeLance 🆓<br>Open Source Contributor �
 
 
 
+ # ⚙️  Side Projects & Current Endeavors
+ - coderandcreator.com
+ - web extension : [socials and entertainment blocker](https://chromewebstore.google.com/detail/socials-entertainment-blo/fmaomgnpaefkghobanbljbbocbaolknl?hl=en)
+
  # 💻 Tech Stack
 
 | **Category**                 | **Technologies**                                                                                                          |
@@ -31,6 +35,7 @@ Full Stack Developer 💻<br>Remote FreeLance 🆓<br>Open Source Contributor �
 - [Mastering JavaScript Basics Before Diving into React](https://coderandcreator.medium.com/mastering-javascript-basics-before-diving-into-react-a-beginners-guide-bc0cd4e53d5a)
 - [Axios Unveiled](https://coderandcreator.medium.com/axios-unveiled-insights-from-my-beginners-journey-343ec3a8a953)
 - [Open Source Contribution](https://blog.stackademic.com/open-source-contribution-f2bfee840756)
+- [How I Solved a Bug and Landed an Offer](https://medium.com/stackademic/how-i-solved-a-bug-and-landed-an-offer-c9e67ad51d2b)
 - [Addressing Mental Health Challenges in Developer’s Journey](https://medium.com/@coderandcreator/addressing-mental-health-challenges-in-developers-journey-5e8372c11146)
 - [AI Taking Jobs: A Boon or Bane? A Detailed Take for Tech Enthusiasts](https://medium.com/@coderandcreator/ai-taking-jobs-a-boon-or-bane-a-detailed-take-for-tech-enthusiasts-aecb73264d75)
 
