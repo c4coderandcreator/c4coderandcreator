@@ -60,7 +60,7 @@ Full Stack Developer 💻<br>Remote FreeLance 🆓<br>Open Source Contributor �
 
 
  # 🌐 <span style="color: #f49c10;"> Socials: </span>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderandcreator) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderandcreator) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coderandcreator)
 
 
   # ☕ <span style="color: #18bd9c;"> You can buy me a coffee here  </span>
