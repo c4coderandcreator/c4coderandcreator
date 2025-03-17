@@ -31,10 +31,10 @@ Full Stack Developer 💻<br>Remote FreeLance 🆓<br>Open Source Contributor �
 
 
 # 👨‍💻 <span style="color: #ffea00;"> Blog Posts: </span>
-- [Right way to contribute to Any Codebase:]([https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd]https://blog.stackademic.com/the-right-way-to-contribute-to-any-codebase-7c7fa4998497)
-- [React Concepts You Must Master:]([https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd]https://blog.stackademic.com/advanced-react-concepts-to-master-before-your-dream-interview-775de4eabe1b)
-- [How I Fixed a Malware reported on 40 security vendors:]([https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd](https://blog.stackademic.com/how-i-fixed-a-malware-reported-on-40-security-vendors-4f2a03824b7d))
-- [Become an Unstoppable Coder:]([https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd]https://blog.stackademic.com/how-to-become-an-unstoppable-unmatchable-coder-in-2025-1583370fd286)
+- [Right way to contribute to Any Codebase:](https://blog.stackademic.com/the-right-way-to-contribute-to-any-codebase-7c7fa4998497)
+- [React Concepts You Must Master:](https://blog.stackademic.com/advanced-react-concepts-to-master-before-your-dream-interview-775de4eabe1b)
+- [How I Fixed a Malware reported on 40 security vendors:](https://blog.stackademic.com/how-i-fixed-a-malware-reported-on-40-security-vendors-4f2a03824b7d)
+- [Become an Unstoppable Coder:](https://blog.stackademic.com/how-to-become-an-unstoppable-unmatchable-coder-in-2025-1583370fd286)
 - [Decoding the DSA Dilemma:](https://medium.com/@coderandcreator/decoding-the-dsa-dilemma-navigating-the-landscape-of-c-python-java-and-javascript-a4d6e5e03dbd)
 - [Mastering JavaScript Basics Before Diving into React](https://coderandcreator.medium.com/mastering-javascript-basics-before-diving-into-react-a-beginners-guide-bc0cd4e53d5a)
 - [Axios Unveiled](https://coderandcreator.medium.com/axios-unveiled-insights-from-my-beginners-journey-343ec3a8a953)
